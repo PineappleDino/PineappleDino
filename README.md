@@ -1,5 +1,3 @@
-# Xandre Ananassaurus (Alex S.)
-
 I am a Animation Technical Artist, with a background as an IT Support Specialist.
 
 Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
