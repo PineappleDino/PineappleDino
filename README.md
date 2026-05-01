@@ -1,9 +1,8 @@
-# Alex S. / PineappleDino
+# Xandre Ananassaurus (Alex S.)
 
-I am a Technical Artist/Technical Animator, with a background of doing IT technician support and troubleshooting.
+I am a Animation Technical Artist, with a background as an IT Support Specialist.
 
 Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
-And with a big itch to squash some bugs around DCC software.
 
 ## [[Artstation]](https://pineappledino.artstation.com/)
 
@@ -24,3 +23,8 @@ And with a big itch to squash some bugs around DCC software.
 ## IDEs:
 ![Visual Studio Code](.logos-pictures/vscode.png "Visual Studio Code")
 ![PyCharm](.logos-pictures/pycharm.png "PyCharm")
+
+## Learning:
+![Unreal Engine]() Unreal Engine
+![Unity]() Unity
+![Godot]() Godot
