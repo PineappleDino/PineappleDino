@@ -1,8 +1,23 @@
 I am a Animation Technical Artist, with a background as an IT Support Specialist.
 
-Inspired by videogames and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
+Inspired by video-games and indie/classic feature animation films and series, my intentions is to create tools and workflows that aid 2D/3D animation and rigging production.
 
-## [[Artstation]](https://pineappledino.artstation.com/)
+Currently focusing my skills on IT System Administration, and Tech Education for regular folks. I value Computer Education to the masses in the current complex technological world.
+
+# _____________ TECH _________________
+## Operating Systems experience:
+- Microslop Windows.
+- Apple MacOS and iOS/iPadOS.
+- Android.
+- Linux Fedora, Ubuntu/Mint, and exploring Arch.
+
+## Current projects:
+- Studying for CompTIA A+ an Network certifications.
+- Setting up an old PC with OpenMediaVault as a local Media/NAS storage.
+
+
+# ___________ ANIMATION ______________
+### [[Artstation]](https://pineappledino.artstation.com/)
 
 ## Works with:
 
